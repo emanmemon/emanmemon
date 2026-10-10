@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8A2BE2&height=200&section=header&text=Eman%20Habib%20Memon&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Web%20Dev%20%7C%20UI%2FUX%20%7C%20AI&descAlignY=55&descSize=18" />
 
 <h1 align="center">
-  Hi there, I'm Eman 👋
+  Hi there, I'm Eman Memon 🤝🏼
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 - 🎓 CS Undergraduate, focused on **Web Development**, **UI/UX**, and dipping into **AI**
 - 💻 I like building clean, practical software with good design instincts
-- 🌱 Currently leveling up my web dev + AI skills
+- 🌱 Currently leveling up my web dev + AI skills and also other projects
 - ⚡ Fun fact: I care as much about how something *looks* as how it *works*
 - 🎯 2026 goal: ship more projects, break fewer builds
 - 💬 Ask me about: React, clean UI, or why dark mode is superior
